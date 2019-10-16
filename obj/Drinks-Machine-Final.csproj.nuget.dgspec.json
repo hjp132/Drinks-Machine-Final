@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Drinks-Machine-Final\\Drinks-Machine-Final\\Drinks-Machine-Final.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Drinks-Machine-Final\\Drinks-Machine-Final\\Drinks-Machine-Final.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Drinks-Machine-Final\\Drinks-Machine-Final\\Drinks-Machine-Final.csproj",
+        "projectName": "Drinks-Machine-Final",
+        "projectPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Drinks-Machine-Final\\Drinks-Machine-Final\\Drinks-Machine-Final.csproj",
+        "packagesPath": "C:\\Users\\PalmerH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PalmerH\\Documents\\coursework\\Unit 1\\Stage 2\\Drinks-Machine-Final\\Drinks-Machine-Final\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PalmerH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
